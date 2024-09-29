@@ -80,3 +80,6 @@ if html_content:
             html_string += f"<pre><code>{code_block}</code></pre>"
 
     create_pdf(html_string, "output.pdf")
+
+
+    
